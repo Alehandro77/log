@@ -1,0 +1,126 @@
+2025-03-20 16:50:17 announcing my loyalty to the Emperor...
+2025-03-20 16:51:17 Thu Mar 20 16:51:17 2025 - received message 0 from emperor
+2025-03-20 16:51:17 SIGINT/SIGTERM received...killing workers...
+2025-03-20 16:51:18 worker 1 buried after 1 seconds
+2025-03-20 16:51:18 goodbye to uWSGI.
+2025-03-20 16:51:18 VACUUM: unix socket /var/sockets/lexan.pythonanywhere.com/socket removed.
+2025-03-20 16:51:22 *** Starting uWSGI 2.0.20 (64bit) on [Thu Mar 20 16:51:21 2025] ***
+2025-03-20 16:51:22 compiled with version: 9.4.0 on 22 July 2022 18:35:26
+2025-03-20 16:51:22 os: Linux-6.5.0-1022-aws #22~22.04.1-Ubuntu SMP Fri Jun 14 16:31:00 UTC 2024
+2025-03-20 16:51:22 nodename: green-liveweb34
+2025-03-20 16:51:22 machine: x86_64
+2025-03-20 16:51:22 clock source: unix
+2025-03-20 16:51:22 pcre jit disabled
+2025-03-20 16:51:22 detected number of CPU cores: 4
+2025-03-20 16:51:22 current working directory: /home/lexan
+2025-03-20 16:51:22 detected binary path: /usr/local/bin/uwsgi
+2025-03-20 16:51:22 *** dumping internal routing table ***
+2025-03-20 16:51:22 [rule: 0] subject: path_info regexp: \.svgz$ action: addheader:Content-Encoding:gzip
+2025-03-20 16:51:22 *** end of the internal routing table ***
+2025-03-20 16:51:22 chdir() to /home/lexan/
+2025-03-20 16:51:22 your processes number limit is 256
+2025-03-20 16:51:22 your memory page size is 4096 bytes
+2025-03-20 16:51:22 detected max file descriptor number: 123456
+2025-03-20 16:51:22 building mime-types dictionary from file /etc/mime.types...
+2025-03-20 16:51:22 567 entry found
+2025-03-20 16:51:22 lock engine: pthread robust mutexes
+2025-03-20 16:51:22 thunder lock: disabled (you can enable it with --thunder-lock)
+2025-03-20 16:51:22 uwsgi socket 0 bound to UNIX address /var/sockets/lexan.pythonanywhere.com/socket fd 3
+2025-03-20 16:51:22 Python version: 3.10.5 (main, Jul 22 2022, 17:09:35) [GCC 9.4.0]
+2025-03-20 16:51:22 *** Python threads support is disabled. You can enable it with --enable-threads ***
+2025-03-20 16:51:22 Python main interpreter initialized at 0x5821f1f31e80
+2025-03-20 16:51:22 your server socket listen backlog is limited to 100 connections
+2025-03-20 16:51:22 your mercy for graceful operations on workers is 60 seconds
+2025-03-20 16:51:22 setting request body buffering size to 65536 bytes
+2025-03-20 16:51:22 mapped 334256 bytes (326 KB) for 1 cores
+2025-03-20 16:51:22 *** Operational MODE: single process ***
+2025-03-20 16:51:22 initialized 38 metrics
+2025-03-20 16:51:22 WSGI app 0 (mountpoint='') ready in 0 seconds on interpreter 0x5821f1f31e80 pid: 1 (default app)
+2025-03-20 16:51:22 *** uWSGI is running in multiple interpreter mode ***
+2025-03-20 16:51:22 gracefully (RE)spawned uWSGI master process (pid: 1)
+2025-03-20 16:51:22 spawned uWSGI worker 1 (pid: 2, cores: 1)
+2025-03-20 16:51:22 metrics collector thread started
+2025-03-20 16:51:22 spawned 2 offload threads for uWSGI worker 1
+2025-03-20 16:51:23 announcing my loyalty to the Emperor...
+2025-03-20 16:59:44 Thu Mar 20 16:59:44 2025 - received message 0 from emperor
+2025-03-20 16:59:44 SIGINT/SIGTERM received...killing workers...
+2025-03-20 16:59:45 worker 1 buried after 1 seconds
+2025-03-20 16:59:45 goodbye to uWSGI.
+2025-03-20 16:59:45 VACUUM: unix socket /var/sockets/lexan.pythonanywhere.com/socket removed.
+2025-03-20 16:59:49 *** Starting uWSGI 2.0.20 (64bit) on [Thu Mar 20 16:59:48 2025] ***
+2025-03-20 16:59:49 compiled with version: 9.4.0 on 22 July 2022 18:35:26
+2025-03-20 16:59:49 os: Linux-6.5.0-1022-aws #22~22.04.1-Ubuntu SMP Fri Jun 14 16:31:00 UTC 2024
+2025-03-20 16:59:49 nodename: green-liveweb34
+2025-03-20 16:59:49 machine: x86_64
+2025-03-20 16:59:49 clock source: unix
+2025-03-20 16:59:49 pcre jit disabled
+2025-03-20 16:59:49 detected number of CPU cores: 4
+2025-03-20 16:59:49 current working directory: /home/lexan
+2025-03-20 16:59:49 detected binary path: /usr/local/bin/uwsgi
+2025-03-20 16:59:49 *** dumping internal routing table ***
+2025-03-20 16:59:49 [rule: 0] subject: path_info regexp: \.svgz$ action: addheader:Content-Encoding:gzip
+2025-03-20 16:59:49 *** end of the internal routing table ***
+2025-03-20 16:59:49 chdir() to /home/lexan/
+2025-03-20 16:59:49 your processes number limit is 256
+2025-03-20 16:59:49 your memory page size is 4096 bytes
+2025-03-20 16:59:49 detected max file descriptor number: 123456
+2025-03-20 16:59:49 building mime-types dictionary from file /etc/mime.types...
+2025-03-20 16:59:49 567 entry found
+2025-03-20 16:59:49 lock engine: pthread robust mutexes
+2025-03-20 16:59:49 thunder lock: disabled (you can enable it with --thunder-lock)
+2025-03-20 16:59:49 uwsgi socket 0 bound to UNIX address /var/sockets/lexan.pythonanywhere.com/socket fd 3
+2025-03-20 16:59:49 Python version: 3.10.5 (main, Jul 22 2022, 17:09:35) [GCC 9.4.0]
+2025-03-20 16:59:49 *** Python threads support is disabled. You can enable it with --enable-threads ***
+2025-03-20 16:59:49 Python main interpreter initialized at 0x5b5c2312de80
+2025-03-20 16:59:49 your server socket listen backlog is limited to 100 connections
+2025-03-20 16:59:49 your mercy for graceful operations on workers is 60 seconds
+2025-03-20 16:59:49 setting request body buffering size to 65536 bytes
+2025-03-20 16:59:49 mapped 334256 bytes (326 KB) for 1 cores
+2025-03-20 16:59:49 *** Operational MODE: single process ***
+2025-03-20 16:59:49 initialized 38 metrics
+2025-03-20 16:59:49 WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x5b5c2312de80 pid: 1 (default app)
+2025-03-20 16:59:49 *** uWSGI is running in multiple interpreter mode ***
+2025-03-20 16:59:49 gracefully (RE)spawned uWSGI master process (pid: 1)
+2025-03-20 16:59:49 spawned uWSGI worker 1 (pid: 2, cores: 1)
+2025-03-20 16:59:49 metrics collector thread started
+2025-03-20 16:59:49 spawned 2 offload threads for uWSGI worker 1
+2025-03-21 19:17:32 workers have been inactive for more than 93600 seconds (1742584651-1742491050)
+2025-03-21 19:17:32 cheap mode enabled: waiting for socket connection...
+2025-04-09 14:04:22 *** Starting uWSGI 2.0.20 (64bit) on [Wed Apr  9 14:04:21 2025] ***
+2025-04-09 14:04:22 compiled with version: 9.4.0 on 22 July 2022 18:35:26
+2025-04-09 14:04:22 os: Linux-6.5.0-1022-aws #22~22.04.1-Ubuntu SMP Fri Jun 14 16:31:00 UTC 2024
+2025-04-09 14:04:22 nodename: green-liveweb34
+2025-04-09 14:04:22 machine: x86_64
+2025-04-09 14:04:22 clock source: unix
+2025-04-09 14:04:22 pcre jit disabled
+2025-04-09 14:04:22 detected number of CPU cores: 4
+2025-04-09 14:04:22 current working directory: /home/lexan
+2025-04-09 14:04:22 detected binary path: /usr/local/bin/uwsgi
+2025-04-09 14:04:22 *** dumping internal routing table ***
+2025-04-09 14:04:22 [rule: 0] subject: path_info regexp: \.svgz$ action: addheader:Content-Encoding:gzip
+2025-04-09 14:04:22 *** end of the internal routing table ***
+2025-04-09 14:04:22 chdir() to /home/lexan/
+2025-04-09 14:04:22 your processes number limit is 256
+2025-04-09 14:04:22 your memory page size is 4096 bytes
+2025-04-09 14:04:22 detected max file descriptor number: 123456
+2025-04-09 14:04:22 building mime-types dictionary from file /etc/mime.types...
+2025-04-09 14:04:22 567 entry found
+2025-04-09 14:04:22 lock engine: pthread robust mutexes
+2025-04-09 14:04:22 thunder lock: disabled (you can enable it with --thunder-lock)
+2025-04-09 14:04:22 uwsgi socket 0 bound to UNIX address /var/sockets/lexan.pythonanywhere.com/socket fd 3
+2025-04-09 14:04:22 Python version: 3.10.5 (main, Jul 22 2022, 17:09:35) [GCC 9.4.0]
+2025-04-09 14:04:22 *** Python threads support is disabled. You can enable it with --enable-threads ***
+2025-04-09 14:04:22 Python main interpreter initialized at 0x64d926e0ce80
+2025-04-09 14:04:22 your server socket listen backlog is limited to 100 connections
+2025-04-09 14:04:22 your mercy for graceful operations on workers is 60 seconds
+2025-04-09 14:04:22 setting request body buffering size to 65536 bytes
+2025-04-09 14:04:22 mapped 334256 bytes (326 KB) for 1 cores
+2025-04-09 14:04:22 *** Operational MODE: single process ***
+2025-04-09 14:04:22 initialized 38 metrics
+2025-04-09 14:04:22 WSGI app 0 (mountpoint='') ready in 1 seconds on interpreter 0x64d926e0ce80 pid: 1 (default app)
+2025-04-09 14:04:22 *** uWSGI is running in multiple interpreter mode ***
+2025-04-09 14:04:22 gracefully (RE)spawned uWSGI master process (pid: 1)
+2025-04-09 14:04:22 spawned uWSGI worker 1 (pid: 2, cores: 1)
+2025-04-09 14:04:22 metrics collector thread started
+2025-04-09 14:04:22 spawned 2 offload threads for uWSGI worker 1
+2025-04-09 14:04:22 announcing my loyalty to the Emperor...
