@@ -1,121 +1,36 @@
-2025-03-20 16:51:23,709: Error running WSGI application
-2025-03-20 16:51:23,713: ModuleNotFoundError: No module named 'flask_migrate'
-2025-03-20 16:51:23,713:   File "/var/www/lexan_pythonanywhere_com_wsgi.py", line 16, in <module>
-2025-03-20 16:51:23,714:     from flask_app import app as application  # noqa
-2025-03-20 16:51:23,714: 
-2025-03-20 16:51:23,714:   File "/home/lexan/day_in_focus/flask_app.py", line 5, in <module>
-2025-03-20 16:51:23,714:     from flask_migrate import Migrate
-2025-03-20 16:51:23,714: ***************************************************
-2025-03-20 16:51:23,715: If you're seeing an import error and don't know why,
-2025-03-20 16:51:23,715: we have a dedicated help page to help you debug: 
-2025-03-20 16:51:23,715: https://help.pythonanywhere.com/pages/DebuggingImportError/
-2025-03-20 16:51:23,715: ***************************************************
-2025-03-20 16:51:30,930: Error running WSGI application
-2025-03-20 16:51:30,930: ModuleNotFoundError: No module named 'flask_migrate'
-2025-03-20 16:51:30,931:   File "/var/www/lexan_pythonanywhere_com_wsgi.py", line 16, in <module>
-2025-03-20 16:51:30,931:     from flask_app import app as application  # noqa
-2025-03-20 16:51:30,931: 
-2025-03-20 16:51:30,931:   File "/home/lexan/day_in_focus/flask_app.py", line 5, in <module>
-2025-03-20 16:51:30,932:     from flask_migrate import Migrate
-2025-03-20 16:51:30,932: ***************************************************
-2025-03-20 16:51:30,932: If you're seeing an import error and don't know why,
-2025-03-20 16:51:30,932: we have a dedicated help page to help you debug: 
-2025-03-20 16:51:30,932: https://help.pythonanywhere.com/pages/DebuggingImportError/
-2025-03-20 16:51:30,933: ***************************************************
-2025-03-20 16:51:32,214: Error running WSGI application
-2025-03-20 16:51:32,215: ModuleNotFoundError: No module named 'flask_migrate'
-2025-03-20 16:51:32,215:   File "/var/www/lexan_pythonanywhere_com_wsgi.py", line 16, in <module>
-2025-03-20 16:51:32,215:     from flask_app import app as application  # noqa
-2025-03-20 16:51:32,215: 
-2025-03-20 16:51:32,216:   File "/home/lexan/day_in_focus/flask_app.py", line 5, in <module>
-2025-03-20 16:51:32,216:     from flask_migrate import Migrate
-2025-03-20 16:51:32,216: ***************************************************
-2025-03-20 16:51:32,217: If you're seeing an import error and don't know why,
-2025-03-20 16:51:32,217: we have a dedicated help page to help you debug: 
-2025-03-20 16:51:32,217: https://help.pythonanywhere.com/pages/DebuggingImportError/
-2025-03-20 16:51:32,217: ***************************************************
-2025-03-20 16:56:51,466: Error running WSGI application
-2025-03-20 16:56:51,467: ModuleNotFoundError: No module named 'flask_migrate'
-2025-03-20 16:56:51,467:   File "/var/www/lexan_pythonanywhere_com_wsgi.py", line 16, in <module>
-2025-03-20 16:56:51,468:     from flask_app import app as application  # noqa
-2025-03-20 16:56:51,468: 
-2025-03-20 16:56:51,468:   File "/home/lexan/day_in_focus/flask_app.py", line 5, in <module>
-2025-03-20 16:56:51,468:     from flask_migrate import Migrate
-2025-03-20 16:56:51,468: ***************************************************
-2025-03-20 16:56:51,468: If you're seeing an import error and don't know why,
-2025-03-20 16:56:51,468: we have a dedicated help page to help you debug: 
-2025-03-20 16:56:51,468: https://help.pythonanywhere.com/pages/DebuggingImportError/
-2025-03-20 16:56:51,469: ***************************************************
-2025-03-20 16:56:52,070: Error running WSGI application
-2025-03-20 16:56:52,070: ModuleNotFoundError: No module named 'flask_migrate'
-2025-03-20 16:56:52,070:   File "/var/www/lexan_pythonanywhere_com_wsgi.py", line 16, in <module>
-2025-03-20 16:56:52,071:     from flask_app import app as application  # noqa
-2025-03-20 16:56:52,071: 
-2025-03-20 16:56:52,071:   File "/home/lexan/day_in_focus/flask_app.py", line 5, in <module>
-2025-03-20 16:56:52,071:     from flask_migrate import Migrate
-2025-03-20 16:56:52,071: ***************************************************
-2025-03-20 16:56:52,071: If you're seeing an import error and don't know why,
-2025-03-20 16:56:52,071: we have a dedicated help page to help you debug: 
-2025-03-20 16:56:52,071: https://help.pythonanywhere.com/pages/DebuggingImportError/
-2025-03-20 16:56:52,072: ***************************************************
-2025-03-20 16:59:50,324: Error running WSGI application
-2025-03-20 16:59:52,214: Error running WSGI application
-2025-03-20 16:59:52,215: ModuleNotFoundError: No module named 'flask_migrate'
-2025-03-20 16:59:52,215:   File "/var/www/lexan_pythonanywhere_com_wsgi.py", line 16, in <module>
-2025-03-20 16:59:52,216:     from flask_app import app as application  # noqa
-2025-03-20 16:59:52,216: 
-2025-03-20 16:59:52,216:   File "/home/lexan/day_in_focus/flask_app.py", line 5, in <module>
-2025-03-20 16:59:52,216:     from flask_migrate import Migrate
-2025-03-20 16:59:52,216: ***************************************************
-2025-03-20 16:59:52,217: If you're seeing an import error and don't know why,
-2025-03-20 16:59:52,217: we have a dedicated help page to help you debug: 
-2025-03-20 16:59:52,217: https://help.pythonanywhere.com/pages/DebuggingImportError/
-2025-03-20 16:59:52,217: ***************************************************
-2025-03-20 16:59:52,822: Error running WSGI application
-2025-03-20 16:59:52,823: ModuleNotFoundError: No module named 'flask_migrate'
-2025-03-20 16:59:52,823:   File "/var/www/lexan_pythonanywhere_com_wsgi.py", line 16, in <module>
-2025-03-20 17:17:29,595: Error running WSGI application
-2025-03-20 17:17:29,597: ModuleNotFoundError: No module named 'flask_migrate'
-2025-03-20 17:17:29,597:   File "/var/www/lexan_pythonanywhere_com_wsgi.py", line 16, in <module>
-2025-03-20 17:17:29,597:     from flask_app import app as application  # noqa
-2025-03-20 17:17:29,598: 
-2025-03-20 17:17:29,598:   File "/home/lexan/day_in_focus/flask_app.py", line 5, in <module>
-2025-03-20 17:17:29,598:     from flask_migrate import Migrate
-2025-03-20 17:17:29,598: ***************************************************
-2025-03-20 17:17:29,599: If you're seeing an import error and don't know why,
-2025-03-20 17:17:29,599: we have a dedicated help page to help you debug: 
-2025-03-20 17:17:29,599: https://help.pythonanywhere.com/pages/DebuggingImportError/
-2025-03-20 17:17:29,599: ***************************************************
-2025-04-09 14:04:22,131: Error running WSGI application
-2025-04-09 14:04:22,140: ModuleNotFoundError: No module named 'flask_migrate'
-2025-04-09 14:04:22,141:   File "/var/www/lexan_pythonanywhere_com_wsgi.py", line 16, in <module>
-2025-04-09 14:04:22,141:     from flask_app import app as application  # noqa
-2025-04-09 14:04:22,141: 
-2025-04-09 14:04:22,141:   File "/home/lexan/day_in_focus/flask_app.py", line 5, in <module>
-2025-04-09 14:04:22,141:     from flask_migrate import Migrate
-2025-04-09 14:04:22,142: ***************************************************
-2025-04-09 14:04:22,142: If you're seeing an import error and don't know why,
-2025-04-09 14:04:22,142: we have a dedicated help page to help you debug: 
-2025-04-09 14:04:22,142: https://help.pythonanywhere.com/pages/DebuggingImportError/
-2025-04-09 14:04:22,142: ***************************************************
-2025-04-09 14:04:26,836: Error running WSGI application
-2025-04-09 14:04:26,837: ModuleNotFoundError: No module named 'flask_migrate'
-2025-04-09 14:04:26,837:   File "/var/www/lexan_pythonanywhere_com_wsgi.py", line 16, in <module>
-2025-04-09 14:04:26,837:     from flask_app import app as application  # noqa
-2025-04-09 14:04:26,838: 
-2025-04-09 14:04:26,838: ***************************************************
-2025-04-09 14:04:26,838: If you're seeing an import error and don't know why,
-2025-04-09 14:04:26,839: https://help.pythonanywhere.com/pages/DebuggingImportError/
-2025-04-09 14:04:26,839: ***************************************************
-2025-04-09 14:04:27,777: Error running WSGI application
-2025-04-09 14:04:27,778: ModuleNotFoundError: No module named 'flask_migrate'
-2025-04-09 14:04:27,778:   File "/var/www/lexan_pythonanywhere_com_wsgi.py", line 16, in <module>
-2025-04-09 14:04:27,778:     from flask_app import app as application  # noqa
-2025-04-09 14:04:27,778: 
-2025-04-09 14:04:27,778:   File "/home/lexan/day_in_focus/flask_app.py", line 5, in <module>
-2025-04-09 14:04:27,778:     from flask_migrate import Migrate
-2025-04-09 14:04:27,779: ***************************************************
-2025-04-09 14:04:27,781: If you're seeing an import error and don't know why,
-2025-04-09 14:04:27,781: we have a dedicated help page to help you debug: 
-2025-04-09 14:04:27,781: https://help.pythonanywhere.com/pages/DebuggingImportError/
-2025-04-09 14:04:27,781: ***************************************************
+2025-04-09 14:27:58,843: Error running WSGI application
+2025-04-09 14:27:58,847: ModuleNotFoundError: No module named 'flask_migrate'
+2025-04-09 14:27:58,847:   File "/var/www/lexan_pythonanywhere_com_wsgi.py", line 16, in <module>
+2025-04-09 14:27:58,847:     from flask_app import app as application  # noqa
+2025-04-09 14:27:58,847: 
+2025-04-09 14:27:58,848:   File "/home/lexan/day_in_focus/flask_app.py", line 5, in <module>
+2025-04-09 14:27:58,848:     from flask_migrate import Migrate
+2025-04-09 14:27:58,848: ***************************************************
+2025-04-09 14:27:58,848: If you're seeing an import error and don't know why,
+2025-04-09 14:27:58,848: we have a dedicated help page to help you debug: 
+2025-04-09 14:27:58,848: https://help.pythonanywhere.com/pages/DebuggingImportError/
+2025-04-09 14:27:58,849: ***************************************************
+2025-04-09 14:28:00,387: Error running WSGI application
+2025-04-09 14:28:00,388: ModuleNotFoundError: No module named 'flask_migrate'
+2025-04-09 14:28:00,388:   File "/var/www/lexan_pythonanywhere_com_wsgi.py", line 16, in <module>
+2025-04-09 14:28:00,388:     from flask_app import app as application  # noqa
+2025-04-09 14:28:00,388: 
+2025-04-09 14:28:00,389:   File "/home/lexan/day_in_focus/flask_app.py", line 5, in <module>
+2025-04-09 14:28:00,389:     from flask_migrate import Migrate
+2025-04-09 14:28:00,389: ***************************************************
+2025-04-09 14:28:00,389: If you're seeing an import error and don't know why,
+2025-04-09 14:28:00,389: we have a dedicated help page to help you debug: 
+2025-04-09 14:28:00,390: https://help.pythonanywhere.com/pages/DebuggingImportError/
+2025-04-09 14:28:00,390: ***************************************************
+2025-04-09 14:28:00,987: Error running WSGI application
+2025-04-09 14:28:00,987: ModuleNotFoundError: No module named 'flask_migrate'
+2025-04-09 14:28:00,988:   File "/var/www/lexan_pythonanywhere_com_wsgi.py", line 16, in <module>
+2025-04-09 14:28:00,988:     from flask_app import app as application  # noqa
+2025-04-09 14:28:00,988: 
+2025-04-09 14:28:00,988:   File "/home/lexan/day_in_focus/flask_app.py", line 5, in <module>
+2025-04-09 14:28:00,988:     from flask_migrate import Migrate
+2025-04-09 14:28:00,989: ***************************************************
+2025-04-09 14:28:00,989: If you're seeing an import error and don't know why,
+2025-04-09 14:28:00,989: we have a dedicated help page to help you debug: 
+2025-04-09 14:28:00,989: https://help.pythonanywhere.com/pages/DebuggingImportError/
+2025-04-09 14:28:00,990: ***************************************************
